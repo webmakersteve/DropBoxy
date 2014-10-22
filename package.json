@@ -1,0 +1,14 @@
+{
+  "name": "DropBoxy",
+  "version": "0.0.1",
+  "description": "Dropbox Reverse proxy that routes patterns to folders",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "keywords": [
+    "Dropbox"
+  ],
+  "author": "Stephen Parente",
+  "license": "None"
+}
